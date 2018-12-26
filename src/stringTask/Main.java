@@ -7,7 +7,7 @@ public class Main
         StringShift stringShift = new StringShift();
         stringShift.setStrings(10);
         stringShift.printArr();
-        stringShift.shiftArr(3);
+        stringShift.shiftArr(3); // shifting array by n units
         stringShift.printArr();
     }
 }
